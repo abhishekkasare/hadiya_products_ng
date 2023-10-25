@@ -9,7 +9,7 @@ apiGatewayURL = 'http://\<HOSTNAME\>:\<PORT\>'
 **NOTE: DO NOT ADD TRAILING SLASH '/' AT THE END OF THE ABOVE ENDPOINT**
 
 ## Development server
-
+   
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Build
